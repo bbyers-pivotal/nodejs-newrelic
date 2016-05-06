@@ -1,0 +1,6 @@
+applications:
+- name: mynodeapp
+  memory: 128M
+  host: mynodeapp
+  #buildpack: https://github.com/cloudfoundry/nodejs-buildpack#v1.5.4
+
